@@ -1,0 +1,16 @@
+uuid,Country,ItemType,SalesChannel,OrderPriority,OrderDate,Region,ShipDate,UnitsSold,UnitPrice,UnitCost,TotalRevenue,TotalCost,TotalProfit
+535113847,Azerbaijan,Snacks,Online,H,11/15/2024,Middle East and North Africa,11/20/2024,1500,152.58,97.44,228870.00,146160.00,82710.00
+874708545,Panama,Cosmetics,Online,H,3/10/2025,Central America and the Caribbean,3/15/2025,6000,437.2,263.33,2623200.00,1579980.00,1043220.00
+854349935,Sao Tome and Principe,Fruits,Online,H,1/20/2025,Sub-Saharan Africa,2/1/2025,12000,9.33,6.92,111960.00,83040.00,28920.00
+892836844,Sao Tome and Principe,Personal Care,Offline,H,10/5/2024,Sub-Saharan Africa,10/15/2024,10000,81.73,56.67,817300.00,566700.00,250600.00
+129280602,Belize,Household,Online,H,4/1/2025,Central America and the Caribbean,4/10/2025,7000,668.27,502.54,4677890.00,3517780.00,1160110.00
+999000001,India,Electronics,Online,H,5/1/2025,Asia,5/10/2025,3200,299.99,180.00,959968.00,576000.00,383968.00
+999000002,United States of America,Office Supplies,Offline,M,5/5/2025,North America,5/12/2025,1500,651.21,524.96,976815.00,787440.00,189375.00
+999000003,Germany,Beverages,Online,L,5/10/2025,Europe,5/18/2025,8500,47.45,31.79,403325.00,270215.00,133110.00
+999000004,Nigeria,Cosmetics,Offline,H,5/15/2025,Sub-Saharan Africa,5/25/2025,5600,437.2,263.33,2448320.00,1474648.00,973672.00
+999000005,Japan,Clothes,Online,C,5/20/2025,Asia,5/28/2025,2100,109.28,35.84,229488.00,75264.00,154224.00
+999000006,Brazil,Cereal,Offline,M,5/22/2025,Central America and the Caribbean,6/1/2025,4300,205.7,117.11,884510.00,503573.00,380937.00
+999000007,Australia,Meat,Online,H,5/25/2025,Australia and Oceania,6/5/2025,6700,421.89,364.69,2826663.00,2443423.00,383240.00
+999000008,France,Baby Food,Offline,L,5/28/2025,Europe,6/8/2025,3800,255.28,159.42,970064.00,605796.00,364268.00
+999000009,Saudi Arabia,Household,Online,H,6/1/2025,Middle East and North Africa,6/10/2025,4100,668.27,502.54,2739907.00,2060414.00,679493.00
+999000010,Kenya,Vegetables,Offline,M,6/5/2025,Sub-Saharan Africa,6/15/2025,5500,154.06,90.93,847330.00,500115.00,347215.00
