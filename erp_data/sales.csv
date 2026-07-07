@@ -1,12 +1,12 @@
 uuid,Country,ItemType,SalesChannel,OrderPriority,OrderDate,Region,ShipDate,UnitsSold,UnitPrice,UnitCost,TotalRevenue,TotalCost,TotalProfit
 535113847,Azerbaijan,Snacks,Online,C,10/8/2014,Middle East and North Africa,10/23/2014,934,152.58,97.44,142509.72,91008.96,51500.76
 874708545,Panama,Cosmetics,Offline,L,2/22/2015,Central America and the Caribbean,2/27/2015,4551,437.2,263.33,1989697.2,1198414.83,791282.37
-854349935,Sao Tome and Principe,Fruits,Offline,M,12/9/2015,Sub-Saharan Africa,1/18/2016,9986,9.33,6.92,93169.38,69103.12,24066.26
+854349935,Sao Tome and Principe,Fruits,Offline,M,12/9/2015,Sub-Saharan Africa,1/18/2016,0,9.33,6.92,93169.38,69103.12,24066.26
 892836844,Sao Tome and Principe,Personal Care,Online,M,9/17/2014,Sub-Saharan Africa,10/12/2014,9118,81.73,56.67,745214.14,516717.06,228497.08
 129280602,Belize,Household,Offline,H,2/4/2010,Central America and the Caribbean,3/5/2010,5858,668.27,502.54,3914725.66,2943879.32,970846.34
 473105037,Denmark,Clothes,Online,C,2/20/2013,Europe,2/28/2013,1149,109.28,35.84,125562.72,41180.16,84382.56
 754046475,Germany,Cosmetics,Offline,M,3/31/2013,Europe,5/3/2013,7964,437.2,263.33,3481860.8,2097160.12,1384700.68
-772153747,Turkey,Fruits,Online,C,3/26/2012,Middle East and North Africa,4/7/2012,6307,9.33,6.92,58844.31,43644.44,15199.87
+772153747,Turkey,Fruits,Online,C,3/26/2012,Middle East and North Africa,4/7/2012,0,9.33,6.92,58844.31,43644.44,15199.87
 847788178,United Kingdom,Snacks,Online,H,12/29/2012,Europe,1/15/2013,8217,152.58,97.44,1253749.86,800664.48,453085.38
 471623599,Kazakhstan,Cosmetics,Online,H,9/11/2015,Asia,9/18/2015,2758,437.2,263.33,1205797.6,726264.14,479533.46
 554646337,Haiti,Cosmetics,Online,C,12/27/2013,Central America and the Caribbean,1/1/2014,1031,437.2,263.33,450753.2,271493.23,179259.97
@@ -17,11 +17,11 @@ uuid,Country,ItemType,SalesChannel,OrderPriority,OrderDate,Region,ShipDate,Units
 563966262,Saint Kitts and Nevis ,Office Supplies,Online,H,8/10/2011,Central America and the Caribbean,8/29/2011,9004,651.21,524.96,5863494.84,4726739.84,1136755
 370325791,Cameroon,Fruits,Online,H,12/18/2015,Sub-Saharan Africa,2/6/2016,6486,9.33,6.92,60514.38,44883.12,15631.26
 881526935,Bahrain,Vegetables,Offline,L,6/26/2016,Middle East and North Africa,7/19/2016,2264,154.06,90.93,348791.84,205865.52,142926.32
-871056020,Solomon Islands,Beverages,Offline,C,5/11/2015,Australia and Oceania,5/30/2015,3688,47.45,31.79,174995.6,117241.52,57754.08
+871056020,Solomon Islands,Beverages,Offline,C,5/11/2015,Australia and Oceania,5/30/2015,3688,0,31.79,174995.6,117241.52,57754.08
 982711875,Monaco,Office Supplies,Online,M,1/13/2012,Europe,1/17/2012,5137,651.21,524.96,3345265.77,2696719.52,648546.25
 580605828,Comoros,Beverages,Offline,L,8/10/2014,Sub-Saharan Africa,8/20/2014,3022,47.45,31.79,143393.9,96069.38,47324.52
 899161708,Iceland,Meat,Online,L,4/22/2013,Europe,4/28/2013,786,421.89,364.69,331605.54,286646.34,44959.2
-993115842,Zambia,Cosmetics,Offline,M,7/26/2014,Sub-Saharan Africa,8/20/2014,3902,437.2,263.33,1705954.4,1027513.66,678440.74
+993115842,Zambia,Cosmetics,Offline,M,7/26/2014,Sub-Saharan Africa,8/20/2014,3902,437.2,263.33,1705954.4,-1027513.66,678440.74
 887517058,Egypt,Cereal,Online,C,7/14/2014,Middle East and North Africa,8/20/2014,4875,205.7,117.11,1002787.5,570911.25,431876.25
 227726686,Togo,Clothes,Offline,L,6/1/2010,Sub-Saharan Africa,6/28/2010,8242,109.28,35.84,900685.76,295393.28,605292.48
 529418551,Saudi Arabia,Vegetables,Online,H,11/4/2011,Middle East and North Africa,11/20/2011,5569,154.06,90.93,857960.14,506389.17,351570.97
